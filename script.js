@@ -10,7 +10,7 @@ const drone = new ScaleDrone('2Lnlrwc0LFpyg38B');
 const roomName = 'observable-' + roomHash;
 const configuration = {
   iceServers: [{
-    urls: 'https://aphrotech123.github.io/VIDEO/#cf1985'
+    urls: 'toto'
   }]
 };
 let room;
