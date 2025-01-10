@@ -10,7 +10,7 @@ const drone = new ScaleDrone('2Lnlrwc0LFpyg38B');
 const roomName = 'observable-' + roomHash;
 const configuration = {
   iceServers: [{
-    urls: 'toto'
+    urls: 'stun:stun.l.google.com:19302'
   }]
 };
 let room;
